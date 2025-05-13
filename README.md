@@ -4,8 +4,8 @@
 本專案旨在分析台灣民國103年至113年間消費者物價指數(CPI)與工業及服務業薪資的關係，並計算實質薪資增長率，進而探討通貨膨脹對民眾實質收入的影響。
 
 ## 數據來源
-- 消費者物價指數銜接表[消費者物價指數及其年增率](https://www.stat.gov.tw/cp.aspx?n=2665)
-- 薪情平臺匯出資料[薪資平台查詢系統](https://earnings.dgbas.gov.tw/query_payroll.aspx)
+- 消費者物價指數銜接表:[消費者物價指數及其年增率](https://www.stat.gov.tw/cp.aspx?n=2665)
+- 薪情平臺匯出資料:[薪資平台查詢系統](https://earnings.dgbas.gov.tw/query_payroll.aspx)
 
 ## 分析方法
 1. **數據處理**：
@@ -46,9 +46,9 @@
 
 ## 圖表輸出
 本專案生成了三張高解析度圖表：
-1. CPI_vs_Salary.png - 消費者物價指數與工業及服務業薪資比較
-2. Growth_Rate_Comparison.png - 消費者物價指數與薪資年增長率比較
-3. Real_Salary_Growth.png - 工業及服務業實質薪資增長率
+1. CPI_vs_Salary.png - ![消費者物價指數與工業及服務業薪資比較](https://github.com/D1018720/bigDataFinalProject/blob/main/CPI_vs_Salary.png)
+2. Growth_Rate_Comparison.png - ![消費者物價指數與薪資年增長率比較](https://github.com/D1018720/bigDataFinalProject/blob/main/Growth_Rate_Comparison.png)
+3. Real_Salary_Growth.png - ![工業及服務業實質薪資增長率](https://github.com/D1018720/bigDataFinalProject/blob/main/Real_Salary_Growth.png)
 
 ## 結論
 通過分析消費者物價指數與薪資數據，我們可以更清楚地了解通貨膨脹對台灣勞工實質薪資的影響，為相關政策制定提供參考依據。

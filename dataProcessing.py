@@ -96,7 +96,6 @@ plt.rcParams['font.sans-serif'] = ['Microsoft JhengHei']  # 設定微軟正黑�
 plt.rcParams['axes.unicode_minus'] = False  # 解決負號顯示問題
 
 # 圖表1：消費者物價指數與工業及服務業薪資比較
-plt.figure(figsize=(12, 6))
 fig, ax1 = plt.subplots(figsize=(12, 6))
 
 color1 = 'tab:blue'
